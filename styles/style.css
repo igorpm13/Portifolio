@@ -102,6 +102,11 @@ body {
 
 .apresentacao__imagem {
     width: 50%;
+    border-radius: 50%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: var(--cor-tercearia);
+
 }
 
 .rodape {
